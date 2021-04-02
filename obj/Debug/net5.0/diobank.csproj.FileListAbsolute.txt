@@ -1,0 +1,16 @@
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\diobank.exe
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\diobank.deps.json
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\diobank.runtimeconfig.json
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\diobank.runtimeconfig.dev.json
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\diobank.dll
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\ref\diobank.dll
+F:\digitalInnovationOne\workspace\C#\diobank\bin\Debug\net5.0\diobank.pdb
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.csprojAssemblyReference.cache
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.GeneratedMSBuildEditorConfig.editorconfig
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.AssemblyInfoInputs.cache
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.AssemblyInfo.cs
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.csproj.CoreCompileInputs.cache
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.dll
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\ref\diobank.dll
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.pdb
+F:\digitalInnovationOne\workspace\C#\diobank\obj\Debug\net5.0\diobank.genruntimeconfig.cache
